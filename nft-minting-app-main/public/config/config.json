@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x59FD1c756B3b2898Da70f41EEC95125c5b346816",
+  "SCAN_LINK": "https://polygonscan.com/token/0x59FD1c756B3b2898Da70f41EEC95125c5b346816",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Tamulmol Pussy Cats",
+  "SYMBOL": "TPCNFT",
+  "MAX_SUPPLY": 62,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tamulmol-pussy-cats",
+  "SHOW_BACKGROUND": true
+}
