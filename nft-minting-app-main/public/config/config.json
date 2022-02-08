@@ -1,8 +1,8 @@
 {
   "CONTRACT_ADDRESS": "0x59FD1c756B3b2898Da70f41EEC95125c5b346816",
-  "SCAN_LINK": "https://polygonscan.com/token/0x59FD1c756B3b2898Da70f41EEC95125c5b346816",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x59FD1c756B3b2898Da70f41EEC95125c5b346816",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Matic Mumbai",
     "SYMBOL": "Matic",
     "ID": 137
   },
